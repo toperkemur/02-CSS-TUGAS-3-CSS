@@ -1,0 +1,30 @@
+h1{
+  font-size: 24px;
+}
+
+p {
+  background-color:#808080;
+  border:1px solid black;
+  font-size: 12px;
+}
+
+.pertama {
+  background-color: #C96E00;
+}
+
+.kedua {
+  background: blue;
+  color: white;
+}
+
+.ketiga {
+  background-color: white;
+  font-family: monospace;
+  font-size: 16px;
+  border-color: gray;
+}
+
+.keempat {
+  font-weight: bold;
+  font-size: 16px;
+}
